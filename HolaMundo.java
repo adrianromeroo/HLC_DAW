@@ -1,8 +1,11 @@
 public class HolaMundo {
 
 	public static void main(String[] args) {		
-		System.out.println("Hola Mundo");
-		System.out.println("Hola Pais");
+		String naranja = "\033[33m";
+		String azul = "\033[34m";
+
+		System.out.println(naranja + "Hola Mundo");
+		System.out.println(azul + "Hola Pais");
 	}
 
 }
