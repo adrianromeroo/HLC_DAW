@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+
+        </title>
+    </head>
+    <body>
+        <a href="pagina2.php">Redireccion</a>
+       <!-- mismo redireccionamiento pero enviando un parámetro-->
+        <!--<a href="pagina2.php?name=alex">Redireccion</a>-->
+    </body>
+</html>
